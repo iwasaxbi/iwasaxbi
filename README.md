@@ -1,4 +1,5 @@
-<img src= https://camo.githubusercontent.com/0d3ef804a872b415a4520659ff9a2c60c80efcdc7cde405aa02a9761e2504c44/68747470733a2f2f7777772e6963656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31312f6963656769662d313139352e676966style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src= <img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/90dc0436-081b-44d8-afb8-3792e314506a" />
+style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi there 👋, I'm Abhishek Singh</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | Crafting Code & Creativity 🌐</h3>
 
