@@ -1,5 +1,4 @@
-<img src= <img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/90dc0436-081b-44d8-afb8-3792e314506a" />
-style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h1 align="center">Hi there 👋, I'm Abhishek Singh</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | Crafting Code & Creativity 🌐</h3>
 
