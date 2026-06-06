@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iwasaxbi/iwasaxbi/main/%E2%9C%8C%EF%B8%8F.jpg" width="100%">
+</p>
 <h1 align="center">Hi there 👋, I'm Abhishek Singh</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | Crafting Code & Creativity 🌐</h3>
 
