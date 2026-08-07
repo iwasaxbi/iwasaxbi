@@ -1,95 +1,37 @@
-<!-- Cool Animated Header Font -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=40&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abhishek;BCA+Student+|+Python+Learner;Welcome+to+my+profile!+<3" alt="Typing SVG" />
-</div>
+[![](https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram)](https://t.me/AXBIERA)
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi%2C+I'm+Abhishek;I'm+Not+a+Developer+)](https://git.io/typing-svg)
 
-<!-- About Me Section (Yato Style layout with side GIF) -->
-<h3 align="left">☕ About me</h3>
-<table width="100%">
-  <tr>
-    <td width="20%" align="center">
-      <!-- Cute Chibi GIF -->
-      <img src="https://media.tenor.com/tHqB8y_D718AAAAi/menhera-chan-chibi.gif" width="120px">
-    </td>
-    <td width="80%">
-      Hey, I'm <b>Abhishek (IWASAXBI)</b>. I'm currently a BCA 1st Year student at GNIOT.<br><br>
-      My hobbies include Reading manga, watching anime, and occasionally tinkering with random stuff.<br><br>
-      Currently diving into <b>Python 🐍</b> and getting my web-dev groove back!
-    </td>
-  </tr>
-</table>
+## **☕ About me**
 
-<!-- Cutie Counter Section (Yato Style) -->
-<h3 align="left">🧋 Cutie Counter</h3>
-<table width="100%">
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://media.tenor.com/B9lYvBpx-H8AAAAi/menhera-chan-chibi.gif" width="120px">
-    </td>
-    <td width="80%">
-      <blockquote>People who visit my profile &lt;3.<br><br>
-      Hehe~ another cutie has been caught stalking</blockquote>
-      <!-- Cat Meme & Profile Views combined -->
-      <img src="https://profile-counter.glitch.me/iwasaxbi/count.svg" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+[![](https://github.com/iwasaxbi/iwasaxbi/raw/main/images/hehe.png)](https://github.com/iwasaxbi/iwasaxbi/blob/main)**Hey, I'm Abhishek. My hobbies include Reading manga/manhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
 
-<br>
+## **🧋Cutie Counter**
 
-<!-- Anime Inspirations (Fixed with Live GIFs instead of static broken images) -->
-<h3 align="left">🌸 Anime Inspirations</h3>
-<p>Here are some anime that inspire me deeply:</p>
+[![](https://count.getloli.com/get/@iwasaxbi?theme=rule34)](https://github.com/iwasaxbi/iwasaxbi/blob/main) [![](https://github.com/iwasaxbi/iwasaxbi/raw/main/images/cuite.png)](https://github.com/iwasaxbi/iwasaxbi/blob/main)
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://media.tenor.com/4lJc1Z_xGzUAAAAC/attack-on-titan-aot.gif" width="100%" style="border-radius:10px;"/><br/>
-      <b>Attack on Titan</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.tenor.com/J3Tnt8t_i4YAAAAC/mashiro-shiina.gif" width="100%" style="border-radius:10px;"/><br/>
-      <b>Sakurasou</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.tenor.com/7bK8x6lWvQoAAAAC/charlotte-anime.gif" width="100%" style="border-radius:10px;"/><br/>
-      <b>Charlotte</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.tenor.com/8QG9D6WlZ_UAAAAd/to-your-eternity-fumetsu-no-anata-e.gif" width="100%" style="border-radius:10px;"/><br/>
-      <b>To Your Eternity</b>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td>The world-building and depth inspire me to face challenges head-on.</td>
-    <td>Taught me the true value of hard work, passion, and struggles.</td>
-    <td>Reminds me that power comes with responsibility and choices matter.</td>
-    <td>A beautiful journey about life, learning, and continuous evolution.</td>
-  </tr>
-</table>
+```
+People who visit my profile :<3.
 
-<br>
+Hehe~ another cutie has been caught stalking my profile 😏.
+```
 
-<!-- GitHub Analytics (Yato Style) -->
-<h3 align="left">GITHUB ANALYTICS 🐱‍👤</h3>
-<table width="100%">
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://media.tenor.com/xO43v-YkE6gAAAAi/crying-cute.gif" width="120px">
-    </td>
-    <td width="80%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasaxbi&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
+### /iwasaxbi/iwasaxbi/blob/main
 
-<br>
-<hr>
+# ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs ![](https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394)
 
-<!-- Your Favorite Cat Meme -->
-<div align="center">
-  <img src="https://media.tenor.com/Z4w2t5_nEskAAAAi/cat-typing.gif" width="150" />
-  <p><i>Doing random things to do random things...</i></p>
-</div>
+[![](https://github-readme-stats.vercel.app/api?username=iwasaxbi&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic%3F&include_all_commits=true&hide_border=true&bg_color=000000)](https://github.com/iwasaxbi) [![](https://github-readme-streak-stats.herokuapp.com/?user=iwasaxbi&theme=chartreuse-dark&hide_border=True&bg_color=000000)](https://github.com/iwasaxbi)
+
+## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ ![](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
+
+[![](https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram)](https://t.me/AXBIERA)
+
+[![](https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram)](https://t.me/AXBIERA)
+
+# ![](https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif) ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ
+
+[![Spotify](https://novatorem-iwasaxbi.vercel.app/api/spotify)](https://open.spotify.com/user/iwasaxbi)
+
+[![](https://github.com/iwasaxbi/iwasaxbi/raw/main/images/done.png)](https://github.com/iwasaxbi/iwasaxbi/blob/main)
+
+[![activity-graph graph](https://github-readme-activity-graph.vercel.app/graph?username=iwasaxbi&radius=16&theme=github-dark&area=true&order=5&hide_title=true)](https://github-readme-activity-graph.vercel.app/graph?username=iwasaxbi&radius=16&theme=github-dark&area=true&order=5&hide_title=true)
