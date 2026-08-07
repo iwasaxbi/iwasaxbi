@@ -1,87 +1,95 @@
-<!-- Banner or Header Image (You can replace the gif link with any aesthetic banner you like) -->
-<img src="https://i.pinimg.com/originals/97/8f/c9/978fc96434458f70cb703f848dd2d7f8.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px;">
-
-<h1 align="center">Hi there, I'm AXBI 🌌</h1>
-<h3 align="center">BCA Student | Python Enthusiast | Otaku 🌸</h3>
-
+<!-- Cool Animated Header Font -->
 <div align="center">
-  <!-- Cutie Counter (Profile Views) -->
-  <p>People who visit my profile &lt;3</p>
-  <img src="https://profile-counter.glitch.me/IWASAXBI/count.svg" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=40&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abhishek;BCA+Student+|+Python+Learner;Welcome+to+my+profile!+<3" alt="Typing SVG" />
 </div>
 
 <br>
 
-### ☕ About Me
-<img align="right" src="https://media.giphy.com/media/132qQ4T3QWn5H2/giphy.gif" width="200" />
-
-- 🎓 I'm currently pursuing my **BCA (Bachelor of Computer Applications)**.
-- 🐍 I'm currently diving into the world of **Python** and loving the journey!
-- 🕸️ I've dabbled in **HTML** in the past and slowly getting back my web-dev groove.
-- 🎯 **My Goal:** To keep learning, build cool projects, and write clean code.
-- 🍿 **Hobbies:** Reading manga, watching anime, and exploring new tech. 
-- 💬 Ask me about: **Anime recommendations!**
-
-<br>
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  </a>
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
-  </a>
-</p>
-
-<br>
-
-### 🌸 Anime Inspirations
-
-Here are some anime that inspire me deeply:
-
-<table align="center">
+<!-- About Me Section (Yato Style layout with side GIF) -->
+<h3 align="left">☕ About me</h3>
+<table width="100%">
   <tr>
-    <td align="center" width="25%">
-      <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-73IhOXpJZiMF.jpg" width="140px;" height="200px" style="object-fit: cover;"/><br/>
-      <b>Attack on Titan</b>
+    <td width="20%" align="center">
+      <!-- Cute Chibi GIF -->
+      <img src="https://media.tenor.com/tHqB8y_D718AAAAi/menhera-chan-chibi.gif" width="120px">
     </td>
-    <td align="center" width="25%">
-      <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13759-Z85J9t5H5bAD.jpg" width="140px;" height="200px" style="object-fit: cover;"/><br/>
-      <b>The Pet Girl of Sakurasou</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20997-2aX2D1rDpo8N.jpg" width="140px;" height="200px" style="object-fit: cover;"/><br/>
-      <b>Charlotte</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114535-6hGZgL0K49a6.jpg" width="140px;" height="200px" style="object-fit: cover;"/><br/>
-      <b>To Your Eternity</b>
+    <td width="80%">
+      Hey, I'm <b>Abhishek (IWASAXBI)</b>. I'm currently a BCA 1st Year student at GNIOT.<br><br>
+      My hobbies include Reading manga, watching anime, and occasionally tinkering with random stuff.<br><br>
+      Currently diving into <b>Python 🐍</b> and getting my web-dev groove back!
     </td>
   </tr>
-  <tr valign="top">
-    <td>The world-building and emotional depth inspire me to think outside the box and face challenges head-on.</td>
-    <td>Taught me the true value of hard work, passion, and the struggles of pursuing what you love.</td>
-    <td>Reminds me that power comes with responsibility and the importance of making the right choices.</td>
-    <td>A beautiful journey about life, learning from your surroundings, and continuous evolution.</td>
+</table>
+
+<!-- Cutie Counter Section (Yato Style) -->
+<h3 align="left">🧋 Cutie Counter</h3>
+<table width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://media.tenor.com/B9lYvBpx-H8AAAAi/menhera-chan-chibi.gif" width="120px">
+    </td>
+    <td width="80%">
+      <blockquote>People who visit my profile &lt;3.<br><br>
+      Hehe~ another cutie has been caught stalking</blockquote>
+      <!-- Cat Meme & Profile Views combined -->
+      <img src="https://profile-counter.glitch.me/iwasaxbi/count.svg" alt="Profile Views" />
+    </td>
   </tr>
 </table>
 
 <br>
 
-### 📊 GitHub Analytics 🐱‍👤
+<!-- Anime Inspirations (Fixed with Live GIFs instead of static broken images) -->
+<h3 align="left">🌸 Anime Inspirations</h3>
+<p>Here are some anime that inspire me deeply:</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IWASAXBI&show_icons=true&theme=tokyonight" alt="IWASAXBI Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IWASAXBI&theme=tokyonight" alt="IWASAXBI Streak" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media.tenor.com/4lJc1Z_xGzUAAAAC/attack-on-titan-aot.gif" width="100%" style="border-radius:10px;"/><br/>
+      <b>Attack on Titan</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.tenor.com/J3Tnt8t_i4YAAAAC/mashiro-shiina.gif" width="100%" style="border-radius:10px;"/><br/>
+      <b>Sakurasou</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.tenor.com/7bK8x6lWvQoAAAAC/charlotte-anime.gif" width="100%" style="border-radius:10px;"/><br/>
+      <b>Charlotte</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.tenor.com/8QG9D6WlZ_UAAAAd/to-your-eternity-fumetsu-no-anata-e.gif" width="100%" style="border-radius:10px;"/><br/>
+      <b>To Your Eternity</b>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td>The world-building and depth inspire me to face challenges head-on.</td>
+    <td>Taught me the true value of hard work, passion, and struggles.</td>
+    <td>Reminds me that power comes with responsibility and choices matter.</td>
+    <td>A beautiful journey about life, learning, and continuous evolution.</td>
+  </tr>
+</table>
 
 <br>
 
----
+<!-- GitHub Analytics (Yato Style) -->
+<h3 align="left">GITHUB ANALYTICS 🐱‍👤</h3>
+<table width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://media.tenor.com/xO43v-YkE6gAAAAi/crying-cute.gif" width="120px">
+    </td>
+    <td width="80%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasaxbi&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+<br>
+<hr>
+
+<!-- Your Favorite Cat Meme -->
 <div align="center">
-  <img src="https://media.giphy.com/media/X3Yj4XXXieKYM/giphy.gif" width="100"/>
-  <p><i>"Hehe~ another cutie has been caught stalking"</i></p>
+  <img src="https://media.tenor.com/Z4w2t5_nEskAAAAi/cat-typing.gif" width="150" />
+  <p><i>Doing random things to do random things...</i></p>
 </div>
