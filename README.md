@@ -1,37 +1,49 @@
-[![](https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram)](https://t.me/AXBIERA)
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7b2ff7,100:ff6ec7&height=200&section=header&text=Noob%20Copy%20Paster%20%E2%80%A2%20%E2%80%A2%20Bot%20Automation&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi%2C+I'm+Abhishek;I'm+Not+a+Developer+)](https://git.io/typing-svg)
+<a href="https://github.com/iwasaxbi"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=30&duration=4000&pause=1000&color=FF9ED8&width=500&lines=Hey%2C+my+self+Abhishek;From+Lucknow%2C+India;Copy+Paster+Bot/Web+Dev!;Telegram%3A+%40proaxbi" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=ff6ec7&lines=Hi!%2C+I'm+Abhishek;Opens+any+website%2C+presses+F12;Breaks+bots+to+understand+them;Ctrl%2BC%2C+Ctrl%2BV%2C+Deploy%2C+Pray;Fixed+1+bug%2C+found+127+more;It+works...+don't+ask+me+why" alt="Typing SVG" /></a>
 
 ## **☕ About me**
 
-[![](https://github.com/iwasaxbi/iwasaxbi/raw/main/images/hehe.png)](https://github.com/iwasaxbi/iwasaxbi/blob/main)**Hey, I'm Abhishek. My hobbies include Reading manga/manhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
+<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Abhishek. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
+<br><br>
 
 ## **🧋Cutie Counter**
+<a href=""><img align="right" width=400 src="https://count.getloli.com/get/@iwasaxbi?theme=rule34"></a>
+<a href=""><img align="left" width="100" src="./images/cuite.png"></a>
 
-[![](https://count.getloli.com/get/@iwasaxbi?theme=rule34)](https://github.com/iwasaxbi/iwasaxbi/blob/main) [![](https://github.com/iwasaxbi/iwasaxbi/raw/main/images/cuite.png)](https://github.com/iwasaxbi/iwasaxbi/blob/main)
-
-```
+```yaml
 People who visit my profile :<3.
 
 Hehe~ another cutie has been caught stalking my profile 😏.
 ```
 
-### /iwasaxbi/iwasaxbi/blob/main
+<p align="center">
+  <a href="https://t.me/proaxbi"><img src="./images/banner.jpg"></a>
+</p>
 
-# ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs ![](https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394)
+<h3>
+<a href=""><img align="left" width="100" src="./images/cry.png"></a>
+</h3>
 
-[![](https://github-readme-stats.vercel.app/api?username=iwasaxbi&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic%3F&include_all_commits=true&hide_border=true&bg_color=000000)](https://github.com/iwasaxbi) [![](https://github-readme-streak-stats.herokuapp.com/?user=iwasaxbi&theme=chartreuse-dark&hide_border=True&bg_color=000000)](https://github.com/iwasaxbi)
+---
 
-## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ ![](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
+<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
-[![](https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram)](https://t.me/AXBIERA)
+<p align="center">
+<a href="https://t.me/proaxbi"><img src="https://img.shields.io/badge/-Contact%20Me-6c3bd1.svg?style=for-the-badge&logo=Telegram&logoColor=white" width="200" height="38.5"/></a>
+</p>
+<p align="center">
+<a href="https://t.me/insaneavii"><img src="https://img.shields.io/badge/-Support%20Channel-6c3bd1.svg?style=for-the-badge&logo=Telegram&logoColor=white" width="200" height="38.5"/></a>
+</p>
 
-[![](https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram)](https://t.me/AXBIERA)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com//)
 
-# ![](https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif) ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:7b2ff7,100:1a1a2e&height=110&section=footer" width="100%"/>
 
-[![Spotify](https://novatorem-iwasaxbi.vercel.app/api/spotify)](https://open.spotify.com/user/iwasaxbi)
-
-[![](https://github.com/iwasaxbi/iwasaxbi/raw/main/images/done.png)](https://github.com/iwasaxbi/iwasaxbi/blob/main)
-
-[![activity-graph graph](https://github-readme-activity-graph.vercel.app/graph?username=iwasaxbi&radius=16&theme=github-dark&area=true&order=5&hide_title=true)](https://github-readme-activity-graph.vercel.app/graph?username=iwasaxbi&radius=16&theme=github-dark&area=true&order=5&hide_title=true)
+<div align="center">
+<sub>Made with ❤️ by Abhishek &nbsp;·&nbsp; Lucknow, India 🇮🇳</sub>
+</div>
